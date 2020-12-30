@@ -1,0 +1,99 @@
+
+/*---------------------home page--------------------*/
+.background{
+    background-color: black;
+}
+/*header*/
+#navbar{
+    font-size: 20px;
+    
+    
+    padding: 10px;
+    margin-right: 2%;
+}
+
+
+.row1 {  
+    width:100%;
+    margin-left: 4%;
+    margin-bottom: 4%;
+  }
+
+  .column1{
+    display: inline-block;
+    font-size: 20px;
+    padding: 10px;
+    color: pink;
+    text-align: center;
+    width: 400px;
+    font-family: 'Lato', sans-serif;
+  }
+  .column1>img{
+      float: right;
+  }
+
+ /*.....................form..........................*/
+ 
+
+ .formheading{
+    text-align: center;
+    color: white;
+}
+
+.form{
+    background-color: grey;
+    padding-top: 40px;
+}
+.feedback{
+ text-align: center;
+ width: 100%;
+}
+
+#name{
+    padding: 15px;
+}
+#email{
+ padding: 15px;
+}
+#textarea{
+    padding: 5px;
+}
+#btn{
+ padding: 20px;
+ background-color: black;
+ color: white;
+ border-radius: 50px;
+ margin-bottom: 4%;
+ border: none;
+ font-size: 18px;
+}
+
+#color{
+    color: blue;
+}
+
+
+/*----------------contact--------------------*/
+
+
+
+.column {
+    float: left;
+    padding: 15px;
+    margin-top: 20%;
+    text-align: center;
+    font-size: 16px;
+    font-family: 'Lato', sans-serif;
+  }
+  
+  .row {  
+    margin-left: 22%;
+  }
+
+  .size{
+      font-size: 13px;
+      font-family: 'Lato', sans-serif;
+      color: grey;
+  }
+
+  
